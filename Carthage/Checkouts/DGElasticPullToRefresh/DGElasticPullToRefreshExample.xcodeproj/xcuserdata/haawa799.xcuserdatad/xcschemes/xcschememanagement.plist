@@ -4,27 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>DGElasticPullToRefresh.xcscheme_^#shared#^_</key>
+		<key>DGElasticPullToRefreshExample.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
-		</dict>
-		<key>DGElasticPullToRefreshExample.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-			<key>orderHint</key>
-			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>05CD14641BBE8FEA00AF4030</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>091C85AC202F6FF700F7D30B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
